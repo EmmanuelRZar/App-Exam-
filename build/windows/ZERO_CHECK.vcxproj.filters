@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\flutter2022B\pvtransferapp\build\windows\CMakeFiles\dc5931a2da7e3d790c4c6d537325d526\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C398F1A6-6A3D-34BB-A21B-1AEE2D655D55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
